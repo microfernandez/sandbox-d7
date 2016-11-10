@@ -1,0 +1,6 @@
+url: localhost/sandbox-drupal7
+db name: sandbox-drupal7
+db user name: root
+db user password: [none] 
+drupal admin username: admin
+drupal admin password: It@dm1npwd
